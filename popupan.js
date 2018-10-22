@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://bit.ly/2eM2EqM';
+	var url_popup = 'http://docbao.vn';
 
       //<![CDATA[
       function addEvent(obj, eventName, func){
